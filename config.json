@@ -1,0 +1,10 @@
+{
+    "inputs_path": "labeled_dataset.csv",
+    "outputs_path": "labeled_dataset.csv",
+    "model_path": "model",
+    "epochs": 3,
+    "batch_size": 32,
+    "learning_rate": 5e-5,
+    "world_size": 2
+  }
+  
