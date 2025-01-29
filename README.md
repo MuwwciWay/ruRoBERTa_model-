@@ -1,4 +1,4 @@
-# ruRoBERTa_model-
+# SmartTeacher
 # Описание проекта
 
 ## Описание файлов
